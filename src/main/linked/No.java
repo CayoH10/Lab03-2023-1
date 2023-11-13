@@ -1,7 +1,7 @@
 package linked;
 
 public class No {
-    private int valor;
+    int valor;
     private No proximo;
 
     public No(int valor) {
